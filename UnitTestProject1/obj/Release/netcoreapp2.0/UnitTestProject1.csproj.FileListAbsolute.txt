@@ -1,0 +1,14 @@
+D:\Aducation\BambooTestProject\UnitTestProject1\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Aducation\BambooTestProject\UnitTestProject1\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Aducation\BambooTestProject\UnitTestProject1\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Aducation\BambooTestProject\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.deps.json
+D:\Aducation\BambooTestProject\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.runtimeconfig.json
+D:\Aducation\BambooTestProject\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.runtimeconfig.dev.json
+D:\Aducation\BambooTestProject\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.dll
+D:\Aducation\BambooTestProject\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.pdb
+D:\Aducation\BambooTestProject\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Aducation\BambooTestProject\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Aducation\BambooTestProject\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.AssemblyInfoInputs.cache
+D:\Aducation\BambooTestProject\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.AssemblyInfo.cs
+D:\Aducation\BambooTestProject\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.dll
+D:\Aducation\BambooTestProject\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.pdb
